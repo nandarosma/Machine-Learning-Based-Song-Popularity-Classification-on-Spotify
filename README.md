@@ -57,3 +57,19 @@ Algorithm: Support Vector Machine (SVM)
 4. matplotlib
 5. seaborn
 
+-Data Preprocessing
+
+The preprocessing stage included:
+
+- Handling missing values using dropna()
+- Feature normalization
+- Date transformation
+- Feature engineering
+- Encoding and scaling numerical features
+
+Additional engineered features:
+
+- Energy-to-danceability ratio
+- Valence-energy interaction
+- Song age calculation
+
