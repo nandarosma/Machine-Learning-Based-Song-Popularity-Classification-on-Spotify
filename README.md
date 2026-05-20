@@ -24,4 +24,21 @@ The research demonstrates how audio-based features can provide strong predictive
 - Evaluate model performance using standard classification metrics.
 - Provide insights for music recommendation systems, marketing strategies, and trend analysis.
 
-m
+-Dataset
+
+Dataset source: Spotify Music Dataset (Kaggle)
+Link: https://www.kaggle.com/datasets/julian3833/jigsaw-toxic-comment-classification-challenge
+
+## 📂 Dataset
+
+| Information | Details |
+|---|---|
+| Dataset Name | Spotify Music Dataset |
+| Source | Kaggle |
+| Total Records | 4,831 Songs |
+| Popular Songs | 3,145 |
+| Unpopular Songs | 1,686 |
+| Data Type | Audio Features & Metadata |
+| Features Used | Energy, Tempo, Danceability, Valence, Acousticness, Speechiness |
+| Target Variable | Song Popularity Classification |
+| Dataset Link | https://www.kaggle.com/datasets/solomonameh/spotify-music-dataset/data |
