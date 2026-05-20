@@ -81,8 +81,19 @@ Additional engineered features:
 Correct predictions: 922
 Misclassifications: 17
 
-2. Evaluatiom
+2. Evaluation
 
-![Pickup by Hour](confusion_matrix.png)
+![Pickup by Hour](Evaluation.png)
 
 These results indicate that Spotify audio features are highly effective for predicting song popularity.
+
+-Project Highlights
+- High-accuracy music popularity classification model
+- Applied feature engineering for improved performance
+- Real-world dataset from Spotify ecosystem
+- End-to-end machine learning workflow implementation
+- Practical use case for recommendation systems and music analytics
+
+-Research Contribution
+
+This project demonstrates the effectiveness of machine learning for digital music analytics and highlights the importance of audio features in understanding listener engagement and popularity trends.
