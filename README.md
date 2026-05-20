@@ -37,3 +37,15 @@ The research demonstrates how audio-based features can provide strong predictive
 | Features Used | Energy, Tempo, Danceability, Valence, Acousticness, Speechiness |
 | Target Variable | Song Popularity Classification |
 | Dataset Link | https://www.kaggle.com/datasets/solomonameh/spotify-music-dataset/data |
+
+-Machine Learning Approach
+Algorithm: Support Vector Machine (SVM)
+
+-Workflow
+-Data Collection
+-Data Cleaning
+Feature Engineering
+Data Transformation & Scaling
+Train-Test Split (80:20)
+Model Training
+Model Evaluation
