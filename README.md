@@ -48,6 +48,12 @@ Algorithm: Support Vector Machine (SVM)
 4. Data Transformation & Scaling
 5. Train-Test Split (80:20)
 6. Model Training
+7. Model Evaluation
 
+-Libraries Used
+1. pandas
+2. numpy
+3. scikit-learn
+4. matplotlib
+5. seaborn
 
-Model Evaluation
