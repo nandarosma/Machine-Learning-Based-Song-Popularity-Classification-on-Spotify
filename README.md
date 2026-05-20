@@ -26,11 +26,6 @@ The research demonstrates how audio-based features can provide strong predictive
 
 -Dataset
 
-Dataset source: Spotify Music Dataset (Kaggle)
-Link: https://www.kaggle.com/datasets/julian3833/jigsaw-toxic-comment-classification-challenge
-
-## 📂 Dataset
-
 | Information | Details |
 |---|---|
 | Dataset Name | Spotify Music Dataset |
