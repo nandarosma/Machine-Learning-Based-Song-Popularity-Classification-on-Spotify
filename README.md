@@ -74,4 +74,15 @@ Additional engineered features:
 - Song age calculation
 
 -Model Performance
-Confusion Matrix
+1. Confusion Matrix
+
+![Pickup by Hour](confusion_matrix.png)
+
+Correct predictions: 922
+Misclassifications: 17
+
+2. Evaluatiom
+
+![Pickup by Hour](confusion_matrix.png)
+
+These results indicate that Spotify audio features are highly effective for predicting song popularity.
