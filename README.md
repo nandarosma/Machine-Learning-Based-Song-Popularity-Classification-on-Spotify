@@ -20,6 +20,6 @@ The research demonstrates how audio-based features can provide strong predictive
 
 -Project Objectives
 - **Analyze the relationship between Spotify audio features and song popularity**
-Build a machine learning classification model using SVM.
+- Build a machine learning classification model using SVM.
 Evaluate model performance using standard classification metrics.
 Provide insights for music recommendation systems, marketing strategies, and trend analysis.
