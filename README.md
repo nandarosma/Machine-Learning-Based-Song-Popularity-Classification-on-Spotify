@@ -42,10 +42,12 @@ The research demonstrates how audio-based features can provide strong predictive
 Algorithm: Support Vector Machine (SVM)
 
 -Workflow
--Data Collection
--Data Cleaning
-Feature Engineering
-Data Transformation & Scaling
-Train-Test Split (80:20)
-Model Training
+1. Data Collection
+2. Data Cleaning
+3. Feature Engineering
+4. Data Transformation & Scaling
+5. Train-Test Split (80:20)
+6. Model Training
+
+
 Model Evaluation
